@@ -19,3 +19,8 @@
 - **[ParcelableChallenge](https://github.com/3zcs/ParcelableChallenge)**
 - **[StudentList](https://github.com/3zcs/StudentList)**
 - **[Restaurants](https://github.com/3zcs/Restaurants)**
+
+## common issues
+- **[How to Solve Intel HAXM Error in Android Studio](https://www.thecrazyprogrammer.com/2016/08/solve-intel-haxm-error-android-studio.html)**
+- ** [How to Install USB Driver for Android](http://joyofandroid.com/how-to-install-usb-driver-for-android/)**
+- ** [Android Studio Emulator “/dev/kvm is not found”](https://stackoverflow.com/questions/36812624/android-studio-emulator-dev-kvm-is-not-found)**
